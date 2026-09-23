@@ -3,7 +3,6 @@ A relational database system for a car rental service, built in Oracle APEX. Mod
 
 ## Project Overview (for README.md body)
 
-```markdown
 # Car Rental Service — Relational Database Design
 
 A relational database designed and implemented in Oracle APEX to support the
