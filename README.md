@@ -69,7 +69,17 @@ a multi-table SQL query:
    length — meaning "only chase long rentals" wouldn't be an effective
    collections strategy.*
 
+## Tech Stack
 
+- **Database:** Oracle APEX (schema design, implementation, sample data)
+- **Query language:** SQL (multi-table joins, GROUP BY aggregation, CASE-based classification)
+- **Modeling:** Entity-Relationship diagramming, relational schema design, normalization
+
+## Team
+
+Group project for MIS 632 — Database Analysis & Design, Drexel LeBow.
+Team: Luan Nguyen, Auspicious Munemo, Bradley Chikwavarara, Benjamin Tawiah, Mirlan Ulanov.
+*My primary contribution: [fill in — e.g., ER modeling / the payment-reliability query / schema implementation in APEX]*
 
 
 
