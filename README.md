@@ -1,7 +1,7 @@
 # SQL-Database Analysis & Design Car Rental Service Project [Relational Database Design]
 A relational database system for a car rental service, built in Oracle APEX. Models the full reservation-to-payment lifecycle across five entities (Customer, Vehicle, Reservation, Rental, Payment) and answers three business questions on fleet utilization, customer retention, and payment risk using multi-table SQL.
 
-## Project Overview (for README.md body)
+## Project Overview
 
 # Car Rental Service — Relational Database Design
 
